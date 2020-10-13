@@ -1,0 +1,16 @@
+{
+  "name": "dyno",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chef",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "prompt-sync": "^4.2.0",
+    "zerodayz.js": "^11.6.2"
+  }
+}
