@@ -26,16 +26,9 @@ console.log(`
 `)
 
 console.log("")
-const action = prompt(" $ ")
+const action = prompt(" -# ")
 
 if(action === "1")  {
-        
-        
- 
-    
-    
-    
-    
         bot.on("ready", function() { 
             console.clear()
             console.log(`
@@ -101,11 +94,9 @@ if(action === "1")  {
                      })
                  })
                  
-                   
-        
                     
                 }
-                       
+               
                 
             
                     
